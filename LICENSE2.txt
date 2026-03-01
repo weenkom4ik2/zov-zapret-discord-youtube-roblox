@@ -49,4 +49,5 @@ To comply with the licenses of these projects:
 --
 
 ZOV ZAPRET is a modded copy of zapret-discord-youtube. Original: https://github.com/Flowseal/zapret-discord-youtube
+
 All rights subject to Flowseal.
