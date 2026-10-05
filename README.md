@@ -1,1 +1,4 @@
 # zov-zapret-discord-youtube-roblox
+
+# WARNING!
+## THIS IS ONLY TESTING AND OLD VERSION OF ZOV ZAPRET. YOU CAN FIND NEW VERSION BY NAME zov-zapret
